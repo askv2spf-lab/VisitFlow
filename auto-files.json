@@ -1,7 +1,7 @@
 {
   "cycle": [
-    "cycle.xlsx",
-    "Циклограма.xlsx"
+    "Циклограма.xlsx",
+    "cycle.xlsx"
   ],
   "workers": [
     "workers.csv",
