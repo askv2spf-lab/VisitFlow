@@ -1,7 +1,7 @@
 {
-  "name": "VisitFlow",
-  "short_name": "VisitFlow",
-  "start_url": "./index.html?v=visitflow",
+  "name": "Планувальник відвідуваннь дільниць",
+  "short_name": "Планувальник",
+  "start_url": "./index.html?v=11",
   "scope": "./",
   "display": "standalone",
   "icons": [
