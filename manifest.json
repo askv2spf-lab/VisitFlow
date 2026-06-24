@@ -1,7 +1,7 @@
 {
   "name": "VisitFlow",
   "short_name": "VisitFlow",
-  "start_url": "./index.html?v=21",
+  "start_url": "./index.html?v=22",
   "scope": "./",
   "display": "standalone",
   "icons": [
